@@ -407,3 +407,5 @@ In conclusion, the structure analysis was carried out, with a focus on community
 in the first case, two different methods made available by the Python library were used,
 finding various communities and their correspondences on the map;
 in the second case, a direct graph was derived from the same dataset and the triads detected in it were studied.
+
+#### _Disclaimer: images in the text refer to 'Relazione_BikeHelsinki.pdf' file_
