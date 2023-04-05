@@ -283,7 +283,7 @@ For each node, it provides a value indicating the ability of that node to
 distribute information in the network. It is measured by calculating the
 average distance of the node from all others in the network. In our case, a node
 characterised by a high closeness centrality value indicates a station
-that could act as an intermediary for other stations. From Figure 14
+that could act as an intermediary for other stations. From Figure 14,
 it can be seen that the highest concentration of points is in the area of the
 medium-high values of closeness centrality. This phenomenon can be
 motivated by the fact that the public bicycle system was studied
@@ -298,14 +298,14 @@ intermediate stations in order to avoid higher payments.
 
 As visible in Figure 15 and as described above, a large number of
 of stations are directly connected to Haukilahdenkatu and this node is
-characterised by the highest closeness centrality (0.91777188328912 46 ).
+characterised by the highest closeness centrality (0.9177718832891246).
 As can be expected from the structure of the network itself, the closeness centrality
 of the other stations follows the same trend as the degree centrality.
 
 ## 5. Structure analysis
 
 Another very interesting aspect belonging to the field of social
-network analysis concerns the study of the substructures of the network. È
+network analysis concerns the study of the substructures of the network.
 It is possible to define many types of sub-graphs and each of these provides us with specific
 specific information about the network such as robustness, cohesion or
 interconnection. In this project, we focus mainly on the
